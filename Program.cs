@@ -6,6 +6,5 @@
   Console.Write(animals [i] +" "); 
   Console.WriteLine(); 
   
-   
 }
 CreateNewString (args); 
